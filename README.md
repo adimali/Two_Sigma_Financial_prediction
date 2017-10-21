@@ -1,4 +1,4 @@
-# Two Sigma Financial modeling project
+# Two Sigma Financial modeling project.
 
 This is the Readme for my Two Sigma Financial modeling project.
 dataset used in this project can be found at Kaggle 2sigma competition [website](https://www.kaggle.com/c/two-sigma-financial-modeling/data)
@@ -28,9 +28,9 @@ These notebooks contain different models fit to the training data.
  - AdaBoost regressor
  - ExtraTrees Regressor
  - SVR
-Models were validated and evaluated using cross validation and held out test set. 
+Models were validated and evaluated using cross validation and held out test set.
 
-
+### [Project Report](https://github.com/adimali/Two_Sigma_Financial_prediction/blob/master/project_report.pdf)
 ## Creators
 
 * Adimali Piyadasa
